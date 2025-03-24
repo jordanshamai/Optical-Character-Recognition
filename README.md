@@ -69,6 +69,6 @@ Multi-line text detection and decoding
 Export trained model to ONNX or TorchScript for deployment
 
 ## Contact
-- Author: Jordan Shamai
+Author: Jordan Shamai
 - Email: jordan.shamai04@gmail.com
 - Project Type: Research Prototype
