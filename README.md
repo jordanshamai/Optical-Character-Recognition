@@ -68,7 +68,7 @@ Add Transformer-based OCR architecture
 Multi-line text detection and decoding
 Export trained model to ONNX or TorchScript for deployment
 
-## 📫 Contact
+## Contact
 Author: Jordan Shamai
 Email: jordan.shamai04@gmail.com
 Project Type: Research Prototype
