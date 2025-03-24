@@ -1,4 +1,4 @@
-# 🔍 OCR From Scratch in PyTorch
+# OCR From Scratch in PyTorch
 
 A character-level Optical Character Recognition (OCR) system built from scratch using PyTorch.
 
@@ -6,7 +6,7 @@ This project demonstrates how to train a neural network to recognize characters 
 
 ---
 
-## 🚀 What It Does
+## What It Does
 
 - Loads and processes labeled character images  
 - Trains a CNN-based classifier from scratch  
@@ -15,7 +15,7 @@ This project demonstrates how to train a neural network to recognize characters 
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Component     | Technology         |
 |--------------|--------------------|
@@ -28,7 +28,7 @@ This project demonstrates how to train a neural network to recognize characters 
 
 ---
 
-## 🧠 Model Architecture
+## Model Architecture
 
 - 3 Convolutional layers + BatchNorm + ReLU
 - Fully connected output layer for character classification
@@ -38,7 +38,7 @@ Supports alphanumeric or customizable character sets.
 
 ---
 
-## 🧪 Training Example
+## Training Example
 
 ```bash
 python train.py \
